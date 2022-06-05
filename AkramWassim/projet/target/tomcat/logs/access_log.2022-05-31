@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:09 +0100] "GET /projet HTTP/1.1" 302 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:09 +0100] "GET /projet/ HTTP/1.1" 404 965 http-bio-8080-exec-3 33
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:09 +0100] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:17 +0100] "GET /projet HTTP/1.1" 302 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:17 +0100] "GET /projet/ HTTP/1.1" 404 965 http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:37 +0100] "GET //ExempleJpaWebApp HTTP/1.1" 404 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [31/May/2022:12:07:45 +0100] "GET /ExempleJpaWebApp/ HTTP/1.1" 404 - http-bio-8080-exec-8 0
